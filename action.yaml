@@ -1,0 +1,10 @@
+name: 'fantastic-action'
+description: 'Fantastic action'
+
+runs:
+  using: "composite"
+  steps:
+    - name: Do the magic
+      shell: bash
+      run: |
+        echo "Done ! Success !"
