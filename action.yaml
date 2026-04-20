@@ -8,8 +8,3 @@ runs:
       shell: bash
       run: |
         echo "Done ! Success !"
-
-    # - name: Malware
-    #   shell: bash
-    #   run: |
-    #     echo "I'm a Malware!"
